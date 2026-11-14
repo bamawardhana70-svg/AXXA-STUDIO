@@ -1,0 +1,10 @@
+{
+  "name": "baxdev — Roblox Music Uploader",
+  "description": "Platform upload musik, model, decal, dan animasi ke Roblox Open Cloud dengan konversi YouTube dan TikTok ke MP3 serta tools VIP Plus.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
